@@ -1,4 +1,4 @@
-Simple Shell Team Project
+Simple Shell Team Project work
 
 Project was completed using
 C language
